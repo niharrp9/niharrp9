@@ -14,7 +14,7 @@ I have a passion for cooking, playing chess, and lifting weights. I also conside
 
 ## 🔧 Tech Stack
 
-**Programming Technologies**: 
+**Programming Languages**: 
 - **Python** (NumPy, Pandas, Matplotlib, Seaborn, Regex, Scikit-Learn, Statsmodels, Quandl, Streamlit, NLTK)
 - **R**
 
@@ -28,10 +28,9 @@ I have a passion for cooking, playing chess, and lifting weights. I also conside
 **Domain Expertise**: 
 - **Statistical Analysis**
 - **Financial Analytics**
-- **Predictive Analytics**
-- **Descriptive Analytics**
+- **Descriptive and Predictive Analytics**
 - **Algorithmic Trading**
-- **Quantitative Trading**
+- **Quantitative Trading Strategies**
 - **Time Series Forecasting**
 
 **Soft Skills**: 
