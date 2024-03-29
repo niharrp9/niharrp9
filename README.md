@@ -1,7 +1,5 @@
 # Nihar Ranjan Panda
 
-![Profile Banner](URL_TO_PROFILE_BANNER_IMAGE)
-
 ## 👋 Introduction
 Hello, everyone! My name is Nihar Ranjan Panda and I am from the eastern part of India. I was born and raised in a town beside Asia's largest brackish lagoon. However, I have been living in and around Delhi for the past five years. I hold a Bachelor of Technology degree in Mechanical Engineering from the National Institute of Technology, Rourkela.
 
