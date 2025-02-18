@@ -9,40 +9,44 @@ Highly motivated and results-oriented professional with 4+ years of experience i
 ## 🎉 Fun Facts 
 I have a passion for cooking, playing chess, and lifting weights. I also consider myself a geography whiz - I can recite all the countries and their capitals under 10 minutes 🤩.  
 
-## 🔧 Tech Stack
+# 🔧 Tech Stack
 
-**Programming Languages**: 
-- **Python** (NumPy, Pandas, Matplotlib, Seaborn, Regex, Scikit-Learn, Statsmodels, Quandl, Streamlit, NLTK)
-- **R**
+## **👨‍💻 Programming Languages & Tools**  
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn, Regex, Scikit-Learn, Statsmodels, Streamlit, NLTK, Hugging Face, LangChain  
+- **R**  
+- **SQL**: BigQuery, PostgreSQL, MySQL  
+- **ETL Pipelines**: Extract, Transform, Load  
+- **Version Control**: Git  
+- **Visualization & Dashboarding**: Tableau, Power BI, Streamlit  
+- **Databases**: Neo4j, MongoDB  
+- **Cloud Platforms**: GCP, AWS  
 
-**Machine Learning Competencies**: 
-- **Supervised Learning** (Regression, Classification, Decision Tree, SVM, Ensemble Methods (Random Forest, AdaBoost, XGBoost))
-- **Unsupervised Learning** (K-Means & Hierarchical Clustering, PCA, Truncated SVD, DBSCAN, t-SNE)
-- **Natural Language Processing** (NLP)
-- **Deep Learning**
-- **Artificial Neural Network** (ANN)
+---
 
-**Domain Expertise**: 
-- **Statistical Analysis**
-- **Financial Analytics**
-- **Descriptive and Predictive Analytics**
-- **Algorithmic Trading**
-- **Quantitative Trading Strategies**
-- **Time Series Forecasting**
+## **🤖 Machine Learning & AI Competencies**  
+- **Supervised Learning**: Regression, Classification, Decision Trees, SVM, Ensemble Methods (Random Forest, AdaBoost, XGBoost)  
+- **Unsupervised Learning**: K-Means, Hierarchical Clustering, PCA, Truncated SVD, DBSCAN, t-SNE  
+- **Natural Language Processing (NLP)**: Text Preprocessing, Named Entity Recognition, Sentiment Analysis, Topic Modeling  
+- **Generative AI & Large Language Models (LLMs)**: Fine-tuning, RAG, Prompt Engineering, Chain-of-Thought Reasoning  
+- **Deep Learning**: ANN, CNN, RNN, LSTM, Transformer Models  
+- **MLOps & Model Deployment**: MLFlow, Airflow, Vertex AI, Docker, Kubernetes  
 
-**Soft Skills**: 
-- **Problem-solving skills**
-- **Effective communication**
-- **Collaborative Team Player**
-- **Data-Driven Analytical Skills**
-- **Critical Thinking**
+---
 
-**Other Tools**: 
-- **SQL database**
-- **ETL** (Extract, Transform, Load)
-- **Microsoft Office** (Excel, PowerPoint)
-- **Jupyter Notebook**
-- **Git**
-- **Tableau**
-- **Neo4j**
-- **MongoDB**
+## **📊 Domain Expertise**  
+- **Statistical Analysis & Data-Driven Decision Making**  
+- **Descriptive & Predictive Analytics**  
+- **Time Series Forecasting**  
+- **End-to-End AI Model Development & Deployment**  
+
+---
+
+## **💡 Soft Skills**  
+- **Problem-Solving & Critical Thinking**  
+- **Effective Communication & Stakeholder Management**  
+- **Collaborative Team Player**  
+- **Data-Driven Analytical Approach**  
+
+---
+
+Feel free to add this to your README file, and let me know if you'd like any additional tweaks! 🚀
