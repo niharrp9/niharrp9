@@ -1,35 +1,27 @@
-# Hi, I'm Nihar Ranjan Panda 👋
+# Hi, I'm Nihar 👋
 
-**AI/ML Engineer | Generative AI | Forward Deployed Engineering**
+**AI/ML Engineer · Applied GenAI · Forward Deployed Engineering**  
+Based in Chicago, building AI products that make complex work faster and easier to trust.
 
-I build and deploy AI systems that solve practical workflow problems, from retrieval-augmented assistants to multi-agent automation. My background spans applied AI engineering, data science, and industrial procurement, where I learned to connect technical work to measurable operational outcomes.
+I take ideas from discovery to working software: retrieval systems, agent workflows, APIs, and the interfaces people actually use. My path from industrial operations to applied AI taught me to start with the workflow, measure the bottleneck, and ship something useful.
 
-I hold an **M.S. in Applied Data Science from the University of Chicago** and a **B.Tech. in Mechanical Engineering from NIT Rourkela**. I’m currently working on AI/ML engineering projects involving RAG pipelines, agent workflows, and production APIs.
+## What I've built
 
-## Selected work
+- **HR job classification agent · University of Chicago** — Turned an 82-page classification framework into a retrieval-assisted workflow for 20+ departments, cutting a process that took about **14 days to under 2 days**.
+- **HR policy and career assistants · University of Chicago** — Built hybrid RAG assistants to help staff find grounded answers; HR policy query time fell by about **70%**.
+- **Odoo ticket classification · Royal Cyber** — Built an AI-powered routing workflow across **15+ support queues**, reducing manual triage by about **50%**.
+- **Solar panel maintenance · Microsoft Fabric** — Built a real-time maintenance workflow for solar assets using Microsoft Fabric to bring operational data and analysis closer to maintenance decisions.
+- **Enterprise validation · Royal Cyber** — Developed multi-agent validation across SAP, ServiceNow, and Oracle workflows, reducing regression effort by about **45%**.
+- **Interview automation · AutoVue.AI** — Built an interview workflow with Vertex AI, BigQuery, Cloud Run, retrieval, and multi-agent evaluation. The project reported **40% faster time-to-hire** and **70% less recruiter workload**.
 
-- **UChicago — HR job classification:** Built a retrieval-assisted workflow over an 82-page classification framework, helping reduce cycle time from about **14 days to under 2 days** across 20+ departments.
-- **UChicago — HR policy and career assistants:** Developed hybrid RAG assistants that reduced HR policy query time by about **70%**.
-- **Royal Cyber — enterprise document and workflow automation:** Built document intelligence and multi-agent validation solutions; one validation workflow reduced regression effort by about **45%**.
-- **Interview automation platform:** Built a multi-agent interview workflow using Vertex AI, BigQuery, and Cloud Run, targeting a **40% reduction in time-to-hire** and **70% reduction in recruiter workload**.
-- **IndianOil — procurement and forecasting:** Supported procurement operations covering approximately **$16M** in spend and developed forecasting work that helped reduce shortages and overstock.
+Earlier, I worked on procurement and forecasting at IndianOil, supporting roughly **$16M** in procurement. That operations experience still shapes how I build software.
 
-## What I work with
+## My toolkit
 
-- **AI/ML:** Python, PyTorch, TensorFlow, scikit-learn, NLP, computer vision, model evaluation
-- **LLM systems:** RAG, hybrid retrieval, embeddings, reranking, LangChain, LangGraph, LlamaIndex, vector databases
-- **Agents and APIs:** Planner–executor–critic workflows, FastAPI, REST APIs, tool integration
-- **Cloud and deployment:** Google Cloud, Vertex AI, Cloud Run, Azure AI Foundry, AWS, Docker
-- **Data:** SQL, BigQuery, PostgreSQL, MongoDB, FAISS, Chroma
+**LLM systems:** RAG, hybrid search, embeddings, grounding evaluation, LangChain, LangGraph, LlamaIndex, FAISS, Chroma  
+**Engineering:** Python, FastAPI, SQL, Docker, REST APIs, PyTorch, scikit-learn  
+**Cloud and data:** Google Cloud, Vertex AI, Cloud Run, Azure AI Foundry, Microsoft Fabric, AWS, BigQuery, PostgreSQL
 
-## Background
+I have an **M.S. in Applied Data Science from the University of Chicago** and a **B.Tech. in Mechanical Engineering from NIT Rourkela**.
 
-Before focusing on AI engineering, I worked in industrial procurement and logistics analytics. That experience continues to shape how I approach AI: start with the workflow, measure the baseline, and build for the people who will use the system.
-
-## Connect
-
-- [GitHub](https://github.com/niharrp9)
-
----
-
-*I enjoy turning ambiguous operational challenges into useful, measurable AI products.*
+Outside work, I enjoy cooking, chess, lifting, and geography. 🌍
