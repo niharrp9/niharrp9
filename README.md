@@ -24,4 +24,4 @@ Earlier, I worked on procurement and forecasting at IndianOil, supporting roughl
 
 I have an **M.S. in Applied Data Science from the University of Chicago** and a **B.Tech. in Mechanical Engineering from NIT Rourkela**.
 
-Outside work, I enjoy cooking, chess, lifting, and geography. 🌍
+Outside work, I enjoy cooking, chess, lifting, pickleball, and geography. 🌍
