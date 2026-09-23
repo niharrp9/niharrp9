@@ -1,52 +1,35 @@
+# Hi, I'm Nihar Ranjan Panda 👋
 
-## 👋 About Me
-Hello, everyone! My name is Nihar Ranjan Panda and I am from the eastern part of India. I was born and raised in a town beside Asia's largest brackish lagoon. However, I have been living in and around Delhi for the past five years. I hold a Bachelor of Technology degree in Mechanical Engineering from the National Institute of Technology, Rourkela.
+**AI/ML Engineer | Generative AI | Forward Deployed Engineering**
 
-After my graduation, I worked at IndianOil in the commercial division of India's largest government-owned refinery. I was looking after the capital procurement and material demand forecasting for various technical departments within the refinery. Moreover, I had the privilege of leading a team of four members looking after the whole procurement process which consists of managing tenders, conducting negotiations, and overseeing procurements worth $16 million. 
+I build and deploy AI systems that solve practical workflow problems, from retrieval-augmented assistants to multi-agent automation. My background spans applied AI engineering, data science, and industrial procurement, where I learned to connect technical work to measurable operational outcomes.
 
-Highly motivated and results-oriented professional with 4+ years of experience in capital procurement, trading strategies, and data science. Proven ability to lead teams, negotiate contracts, automate processes, and leverage data to drive strategic decision-making.
-  
-## 🎉 Fun Facts 
-I have a passion for cooking, playing chess, and lifting weights. I also consider myself a geography whiz - I can recite all the countries and their capitals under 10 minutes 🤩.  
+I hold an **M.S. in Applied Data Science from the University of Chicago** and a **B.Tech. in Mechanical Engineering from NIT Rourkela**. I’m currently working on AI/ML engineering projects involving RAG pipelines, agent workflows, and production APIs.
 
-# 🔧 Tech Stack
+## Selected work
 
-## **👨‍💻 Programming Languages & Tools**  
-- **Python**: NumPy, Pandas, Matplotlib, Seaborn, Regex, Scikit-Learn, Statsmodels, Streamlit, NLTK, Hugging Face, LangChain  
-- **R**  
-- **SQL**: BigQuery, PostgreSQL, MySQL  
-- **ETL Pipelines**: Extract, Transform, Load  
-- **Version Control**: Git  
-- **Visualization & Dashboarding**: Tableau, Power BI, Streamlit  
-- **Databases**: Neo4j, MongoDB  
-- **Cloud Platforms**: GCP, AWS  
+- **UChicago — HR job classification:** Built a retrieval-assisted workflow over an 82-page classification framework, helping reduce cycle time from about **14 days to under 2 days** across 20+ departments.
+- **UChicago — HR policy and career assistants:** Developed hybrid RAG assistants that reduced HR policy query time by about **70%**.
+- **Royal Cyber — enterprise document and workflow automation:** Built document intelligence and multi-agent validation solutions; one validation workflow reduced regression effort by about **45%**.
+- **Interview automation platform:** Built a multi-agent interview workflow using Vertex AI, BigQuery, and Cloud Run, targeting a **40% reduction in time-to-hire** and **70% reduction in recruiter workload**.
+- **IndianOil — procurement and forecasting:** Supported procurement operations covering approximately **$16M** in spend and developed forecasting work that helped reduce shortages and overstock.
 
----
+## What I work with
 
-## **🤖 Machine Learning & AI Competencies**  
-- **Supervised Learning**: Regression, Classification, Decision Trees, SVM, Ensemble Methods (Random Forest, AdaBoost, XGBoost)  
-- **Unsupervised Learning**: K-Means, Hierarchical Clustering, PCA, Truncated SVD, DBSCAN, t-SNE  
-- **Natural Language Processing (NLP)**: Text Preprocessing, Named Entity Recognition, Sentiment Analysis, Topic Modeling  
-- **Generative AI & Large Language Models (LLMs)**: Fine-tuning, RAG, Prompt Engineering, Chain-of-Thought Reasoning  
-- **Deep Learning**: ANN, CNN, RNN, LSTM, Transformer Models  
-- **MLOps & Model Deployment**: MLFlow, Airflow, Vertex AI, Docker, Kubernetes  
+- **AI/ML:** Python, PyTorch, TensorFlow, scikit-learn, NLP, computer vision, model evaluation
+- **LLM systems:** RAG, hybrid retrieval, embeddings, reranking, LangChain, LangGraph, LlamaIndex, vector databases
+- **Agents and APIs:** Planner–executor–critic workflows, FastAPI, REST APIs, tool integration
+- **Cloud and deployment:** Google Cloud, Vertex AI, Cloud Run, Azure AI Foundry, AWS, Docker
+- **Data:** SQL, BigQuery, PostgreSQL, MongoDB, FAISS, Chroma
 
----
+## Background
 
-## **📊 Domain Expertise**  
-- **Statistical Analysis & Data-Driven Decision Making**  
-- **Descriptive & Predictive Analytics**  
-- **Time Series Forecasting**  
-- **End-to-End AI Model Development & Deployment**  
+Before focusing on AI engineering, I worked in industrial procurement and logistics analytics. That experience continues to shape how I approach AI: start with the workflow, measure the baseline, and build for the people who will use the system.
+
+## Connect
+
+- [GitHub](https://github.com/niharrp9)
 
 ---
 
-## **💡 Soft Skills**  
-- **Problem-Solving & Critical Thinking**  
-- **Effective Communication & Stakeholder Management**  
-- **Collaborative Team Player**  
-- **Data-Driven Analytical Approach**  
-
----
-
-Feel free to add this to your README file, and let me know if you'd like any additional tweaks! 🚀
+*I enjoy turning ambiguous operational challenges into useful, measurable AI products.*
